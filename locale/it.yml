@@ -910,55 +910,55 @@ _: "" #_(underscore)
 # |   LANGUAGE: JAVASCRIPT   |
 # ----------------------------
 # << Keywords >>
-arguments: ""
-await: ""
-break: ""
-case: ""
-catch: ""
-class: ""
-const: ""
-continue: ""
-debugger: ""
-default: ""
-delete: ""
-do: ""
-else: ""
-enum: ""
-eval: ""
-export: ""
-extends: ""
-false: ""
-finally: ""
-for: ""
-from: ""
-function: ""
-if: ""
-implements: ""
-import: ""
-in: ""
-instanceof: ""
-interface: ""
-let: ""
-new: ""
-null: ""
-package: ""
-private: ""
-protected: ""
-public: ""
-return: ""
-static: ""
-super: ""
-switch: ""
-this: ""
-throw: ""
-true: ""
-try: ""
-typeof: ""
-var: ""
-void: ""
-while: ""
-with: ""
-yield: ""
+arguments: "argomenti" # ✅
+await: "aspetta" # ✅
+break: "interrompi" # ✅
+case: "caso" # ✅
+catch: "prendi" # ✅
+class: "classe" # ✅
+const: "costante" # ✅
+continue: "continua" # ✅
+debugger: "depurare" # ❓ Not sure if it's better 'depurare' or 'depuratore'
+default: "predefinito" # ✅
+delete: "rimuovi" # ✅
+do: "fai" # ✅
+else: "altrimenti" # ✅
+enum: "enumera" # ✅
+eval: "valuta" # ✅
+export: "esporta" # ✅
+extends: "estende" # ✅
+false: "falso" # ✅
+finally: "finalmente" # ✅
+for: "per" # ✅
+from: "da" # ✅
+function: "funzione" # ✅
+if: "se" # ✅
+implements: "implmenta" # ✅
+import: "importa" # ✅
+in: "in" # ✅
+instanceof: "instanzadi" # ✅
+interface: "interfaccia" # ✅
+let: "permettere" # ✅
+new: "nuovo" # ✅
+null: "nullo" # ✅
+package: "pacchetto" # ✅
+private: "privato" # ✅
+protected: "protetto" # ✅
+public: "pubblico" # ✅
+return: "restituisci" # ✅
+static: "statico" # ✅
+super: "super" # ✅
+switch: "cambio" # ✅
+this: "questo" # ✅
+throw: "lancia" # ✅
+true: "vero" # ✅
+try: "prova" # ✅
+typeof: "tipodi" # ✅
+var: "variabile" # ✅
+void: "vuoto" # ✅
+while: "mentre" # ✅
+with: "con" # ✅
+yield: "produci" # ✅
 # << Error Messages >>
 
 # ----------------------
